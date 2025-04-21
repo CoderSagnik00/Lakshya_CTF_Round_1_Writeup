@@ -1,6 +1,6 @@
 # 🛡️ LakshyaCTF 2025 Writeups - Team EclipsEch0s
 
-Welcome to the official write-up repository of **Team EclipsEch0s** 🌓, who proudly secured **Rank 27 (Top 30)** in the **LakshyaCTF 2025** hosted by [PICT Cyber Cell](https://www.pictcybercell.in/) and qualified for the 2nd round.
+Welcome to the official write-up repository of **Team EclipsEch0s** 🌓, who proudly secured **Rank 28 (Top 30)** in the **LakshyaCTF 2025** hosted by [PICT Cyber Cell](https://www.pictcybercell.in/) and qualified for the 2nd round.
 
 Led by **Sagnik Roy (aka 3agle)** 🦅 and teamed up with **Sobyosachi Biswas**, we delved into a diverse array of challenges — from OSINT and steganography to web exploitation and reverse engineering.
 
