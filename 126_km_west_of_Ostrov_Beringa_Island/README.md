@@ -40,7 +40,6 @@ We noticed the page title was Seismograph, so we tried that as the passphrase:
     ```bash
     $ cat ./flag.txt
     ```
-    We eventually found that decoding the string using
     Which gave us a long encoded string:
     ```swift
     4HE1o6T_Ev8]k#!X5f$HsB+R(@FciA]]-?QEO>a:#1Ez&pZZ5'[_o9T_F!8]AN!X6*$Hjv+EDLH.$naI-?s{O>+1#5i@`
